@@ -16,7 +16,7 @@ class HomePage extends StatelessWidget {
         child: Text(
           "Introduction FUGI | flutter intensif club",
           style: TextStyle(
-            color: Colors.blueAccent,
+            color: Colors.black,
             fontSize: 18,
             fontWeight: FontWeight.bold,
           ),
